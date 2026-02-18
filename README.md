@@ -1,16 +1,24 @@
-## Hi there 👋
+## 🔐 About Me
+Cybersecurity learner with a strong focus on Blue Team operations and defensive security.
+Passionate about understanding how systems are attacked — and how to defend them effectively.
 
-<!--
-**cynx-dev/cynx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Operating Systems
+- 🪟 Windows
+- 🐉 Kali Linux
+- 🐧 Expanding into Ubuntu
 
-Here are some ideas to get you started:
+## 🛠 Technical Skills
+- 🐍 Python (scripting & automation)
+- 📊 Log Analysis
+- 🧪 Security Labs & Hands-on Practice
+- 🔍 Basic Threat Detection & System Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Focus Areas
+- Blue Team Operations
+- Detection & Response
+- System Hardening
+- Continuous Skill Development
+
+## 🚀 Goals
+Building practical cybersecurity skills through labs, scripting and real-world simulations.
+Continuously improving technical and analytical abilities.
